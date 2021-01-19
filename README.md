@@ -1,2 +1,1 @@
-# CMPE_273
-Network socket monitoring tool
+# Python Network Socket Monitoring Tool
